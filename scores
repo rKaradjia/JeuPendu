@@ -1,0 +1,10 @@
+score = {
+    joueur 1:    0,
+    joueur 2:    0,
+    joueur 3:    0,
+    joueur 4:    0,
+    rehane:    3,
+    [A:    3,
+    toto:    3,
+    alex:    3,
+}
